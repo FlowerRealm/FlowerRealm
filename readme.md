@@ -1,6 +1,6 @@
 <p align="center">
     <!-- https://github.com/kyechan99/capsule-render -->
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=Flower%20City&fontSize=90&fontAlign=50&fontAlignY=30&desc=anything%20want%20to%20say.&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=Flower%20City&fontSize=90&fontAlign=50&fontAlignY=30&desc=something%20want%20to%20say.&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 <p align="center">
     <!-- https://github.com/DenverCoder1/readme-typing-svg -->
