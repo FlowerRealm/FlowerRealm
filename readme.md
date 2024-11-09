@@ -19,11 +19,6 @@
     <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=FlowerCountry&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 </p>
 <p align="center">
-    <!-- https://github.com/ryo-ma/github-profile-trophy -->
-    <!-- rules: https://github.com/ryo-ma/github-profile-trophy/blob/master/src/trophy.ts -->
-    <img width="800" src="https://github-profile-trophy.vercel.app/?username=FlowerCountry&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" />
-</p>
-<p align="center">
     <!-- https://github.com/LelouchFR/skill-icons -->
     <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=azure,cpp,cmake,cloudflare,discord,docker,powershell,gcp,git,github,py,unity,vim,vscode,windows&titles=true">
 </p>
