@@ -1,10 +1,10 @@
 <p align="center">
     <!-- https://github.com/kyechan99/capsule-render -->
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=Flower%20City&fontSize=90&fontAlign=50&fontAlignY=30&desc=something%20want%20to%20say.&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=Flower%20Realm&fontSize=90&fontAlign=50&fontAlignY=30&desc=something%20want%20to%20say.&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 <p align="center">
     <!-- https://github.com/DenverCoder1/readme-typing-svg -->
-    <img width="800" src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome%20Everyone%20|%20Flower%20City" />
+    <img width="800" src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome%20Everyone%20|%20Flower%20Realm" />
 </p>
 <p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
@@ -24,5 +24,5 @@
 </p>
 <p align="center">
     <!-- https://github.com/kyechan99/capsule-render -->
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=Flower%20City&fontSize=90&fontAlign=50&fontAlignY=70&desc=nothing%20want%20to%20say.&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=Flower%20Realm&fontSize=90&fontAlign=50&fontAlignY=70&desc=nothing%20want%20to%20say.&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
 </p>
